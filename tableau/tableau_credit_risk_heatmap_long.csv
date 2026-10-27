@@ -1,0 +1,41 @@
+rank_strongest_to_weakest,ticker,company,metric,value,value_for_colour_capped,risk_band,unit,note
+1,NVDA,NVIDIA,Debt / EBITDA,0.08,0.08,Low,x,
+1,NVDA,NVIDIA,Interest coverage,547.14,50,Strong,x,
+1,NVDA,NVIDIA,Altman Z,68.05,20,Safe,,"Altman Z is weak for cash-rich tech companies, so use Z-prime and the other models as a cross-check."
+1,NVDA,NVIDIA,Altman Z-prime,13.22,10,Safe,,"Altman Z is weak for cash-rich tech companies, so use Z-prime and the other models as a cross-check."
+2,GOOGL,Alphabet,Debt / EBITDA,0.33,0.33,Low,x,
+2,GOOGL,Alphabet,Interest coverage,216.8,50,Strong,x,
+2,GOOGL,Alphabet,Altman Z,15.45,15.45,Safe,,"Altman Z is weak for cash-rich tech companies, so use Z-prime and the other models as a cross-check."
+2,GOOGL,Alphabet,Altman Z-prime,7.14,7.14,Safe,,"Altman Z is weak for cash-rich tech companies, so use Z-prime and the other models as a cross-check."
+3,MSFT,Microsoft,Debt / EBITDA,0.27,0.27,Low,x,
+3,MSFT,Microsoft,Interest coverage,55.39,50,Strong,x,
+3,MSFT,Microsoft,Altman Z,9.35,9.35,Safe,,"Altman Z is weak for cash-rich tech companies, so use Z-prime and the other models as a cross-check."
+3,MSFT,Microsoft,Altman Z-prime,4.71,4.71,Safe,,"Altman Z is weak for cash-rich tech companies, so use Z-prime and the other models as a cross-check."
+4,TSM,TSMC,Debt / EBITDA,0.39,0.39,Low,x,
+4,TSM,TSMC,Interest coverage,166.04,50,Strong,x,
+4,TSM,TSMC,Altman Z,19.18,19.18,Safe,,"Altman Z is weak for cash-rich tech companies, so use Z-prime and the other models as a cross-check."
+4,TSM,TSMC,Altman Z-prime,7.73,7.73,Safe,,"Altman Z is weak for cash-rich tech companies, so use Z-prime and the other models as a cross-check."
+5,ASML,ASML,Debt / EBITDA,0.35,0.35,Low,x,
+5,ASML,ASML,Interest coverage,97.42,50,Strong,x,
+5,ASML,ASML,Altman Z,12.67,12.67,Safe,,"Altman Z is weak for cash-rich tech companies, so use Z-prime and the other models as a cross-check."
+5,ASML,ASML,Altman Z-prime,4.15,4.15,Safe,,"Altman Z is weak for cash-rich tech companies, so use Z-prime and the other models as a cross-check."
+6,AMD,AMD,Debt / EBITDA,0.53,0.53,Low,x,
+6,AMD,AMD,Interest coverage,32.6,32.6,Strong,x,
+6,AMD,AMD,Altman Z,38.39,20,Safe,,"Altman Z is weak for cash-rich tech companies, so use Z-prime and the other models as a cross-check."
+6,AMD,AMD,Altman Z-prime,6.9,6.9,Safe,,"Altman Z is weak for cash-rich tech companies, so use Z-prime and the other models as a cross-check."
+7,META,Meta,Debt / EBITDA,0.79,0.79,Low,x,
+7,META,Meta,Interest coverage,74.76,50,Strong,x,
+7,META,Meta,Altman Z,8.5,8.5,Safe,,"Altman Z is weak for cash-rich tech companies, so use Z-prime and the other models as a cross-check."
+7,META,Meta,Altman Z-prime,5.41,5.41,Safe,,"Altman Z is weak for cash-rich tech companies, so use Z-prime and the other models as a cross-check."
+8,PLTR,Palantir,Debt / EBITDA,0.16,0.16,Low,x,
+8,PLTR,Palantir,Interest coverage,6.17,6.17,Watch,x,
+8,PLTR,Palantir,Altman Z,190.91,20,Safe,,"Altman Z is weak for cash-rich tech companies, so use Z-prime and the other models as a cross-check."
+8,PLTR,Palantir,Altman Z-prime,10.18,10,Safe,,"Altman Z is weak for cash-rich tech companies, so use Z-prime and the other models as a cross-check."
+9,AVGO,Broadcom,Debt / EBITDA,1.88,1.88,Watch,x,
+9,AVGO,Broadcom,Interest coverage,8.08,8.08,Watch,x,
+9,AVGO,Broadcom,Altman Z,11.54,11.54,Safe,,"Altman Z is weak for cash-rich tech companies, so use Z-prime and the other models as a cross-check."
+9,AVGO,Broadcom,Altman Z-prime,2.66,2.66,Safe,,"Altman Z is weak for cash-rich tech companies, so use Z-prime and the other models as a cross-check."
+10,ORCL,Oracle,Debt / EBITDA,4.67,4.67,High,x,
+10,ORCL,Oracle,Interest coverage,5.25,5.25,Watch,x,
+10,ORCL,Oracle,Altman Z,1.61,1.61,Distress zone,,"Altman Z is weak for cash-rich tech companies, so use Z-prime and the other models as a cross-check."
+10,ORCL,Oracle,Altman Z-prime,0.89,0.89,Distress zone,,"Altman Z is weak for cash-rich tech companies, so use Z-prime and the other models as a cross-check."

@@ -1,0 +1,4 @@
+tile,ticker,company,debt_to_ebitda,interest_coverage_x,altman_z,note
+Weakest - Oracle,ORCL,Oracle,4.67,5.3,1.61,Only High debt company; Altman Z in distress zone
+Watch - Broadcom,AVGO,Broadcom,1.88,8.1,11.54,"Second weakest; flagged by most models, not all"
+Strongest - NVIDIA,NVDA,NVIDIA,0.08,547.1,68.05,Lowest debt; highest coverage
